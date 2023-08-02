@@ -105,7 +105,7 @@ db.mongoose
 var corsOptions = {
 
   //origin: ["http://localhost:8082"],
-  origin: ["https://friendly-licorice-9df45e.netlify.app/home"],
+  origin: ["https://friendly-licorice-9df45e.netlify.app"],
   
   credentials: true
 };

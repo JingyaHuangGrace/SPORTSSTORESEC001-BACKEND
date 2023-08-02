@@ -104,7 +104,9 @@ db.mongoose
 
 var corsOptions = {
 
-  origin: ["http://localhost:8082"],
+  //origin: ["http://localhost:8082"],
+  origin: ["https://neon-gaufre-167559.netlify.app"],
+  
   credentials: true
 };
 
